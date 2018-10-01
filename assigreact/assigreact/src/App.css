@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  margin:100px;
+  border: 2px black solid;
+  background-color: bisque;
+}
+/* 
+.App[type = 'text'] {
+  width: 200px;
+} */
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#btapp{
+  color: white;
+  background-color:blue;
+  width: 180px;
+  height: 25px;
+}
+
+h3{
+  color: rebeccapurple;
+}
+
+body{
+  background-color: palegreen;
+}
